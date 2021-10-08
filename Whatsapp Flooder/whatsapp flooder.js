@@ -1,8 +1,15 @@
-let msg = `FAT`;
+let msg = `FAT`; // Write your message here! This could be a DOM element also!
+let times = "500"; // Number of messages you want to send
+let interval = 500; // Set the interval between your messages
+
+/* 
+# Change the below selectors according to your DOM.
+# 'inp' variable should be the Contenteditable div that stores your input 
+# 'btn' variable should be the button that appear on keypress event 
+
+*/
 let inp = `._13NKt.copyable-text.selectable-text[data-tab="9"]`;
 let btn = "._4sWnG";
-let times = "500";
-let interval = 500;
 
 
 
