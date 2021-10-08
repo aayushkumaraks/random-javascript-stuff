@@ -3,7 +3,7 @@ let times = "500"; // Number of messages you want to send
 let interval = 500; // Set the interval between your messages
 
 /* 
-# Change the below selectors according to your DOM.
+# Change below selectors according to your DOM.
 # 'inp' variable should be the Contenteditable div that stores your input 
 # 'btn' variable should be the button that appear on keypress event 
 
