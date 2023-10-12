@@ -1,4 +1,4 @@
-# Whatsapp Flooder
+# Whatsapp Flooder [DEPRECATED, this doesn't work anymore]
 
 Open whatsapp web on any browser and run this script on the console.
 
